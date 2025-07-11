@@ -1,0 +1,10 @@
+{
+  "llm": {
+    "openai": {
+      "api_key": "your-api_key-key",
+      "text_models": ["gpt-4.1", "gpt-4.1-mini"],
+      "audio_models": ["whisper-1"]
+    },
+    "default_output_path": "output"
+  }
+}
